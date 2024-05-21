@@ -8,7 +8,7 @@ The server is running on port 7039.
 
 ### Launching the Application
 
-1. Make sure the server is running on port 7268.
+1. Make sure the server is running on port 7268 in ths link:https://github.com/DIitikaz/ServerPraktikumTodatabase.
 2. Navigate to the project directory in the terminal.
 3. Run `ng serve` to start the Angular application. Open [http://localhost:4200](http://localhost:4200) to view it in your browser.
 
